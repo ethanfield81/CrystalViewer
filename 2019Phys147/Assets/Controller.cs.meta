@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: b75b93869a33d71478af7af5f76c3ccd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ViewBoxPreFaberino: {fileID: 3805879301051437670, guid: 0216061ada8a8fa4c9e4c0c8106cf9ab,
+      type: 3}
+  - UnitCellPreFaberino: {fileID: 2692942807673276345, guid: 0f6b5d6845be3ab419e985c368fae60d,
+      type: 3}
+  - AtomPreFaberino: {fileID: 8288401781896808706, guid: 9df6d96f0c46ade4abbeb34fce605aaa,
+      type: 3}
+  - BoundaryPreFaberino: {fileID: 2376389048730564508, guid: 26def0b6d28ed394e87821faaa9dd07b,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6f2d8541231bbe947b5e2f8405f8b076
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - UnitCellPreFaberino: {fileID: 4443011879292920286, guid: 0f6b5d6845be3ab419e985c368fae60d,
+      type: 3}
+  - ViewBoxPreFab: {fileID: 3805879301051437670, guid: 0216061ada8a8fa4c9e4c0c8106cf9ab,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

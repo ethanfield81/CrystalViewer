@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 39ba87991d6c47a48b761325ed0f1643
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - AtomPreFab: {fileID: 8412530100793137155, guid: 9df6d96f0c46ade4abbeb34fce605aaa,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
